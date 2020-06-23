@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[24]:
-
+1.
 
 def maxnum():
    a=int(input("enter number1  "))
@@ -10,11 +6,7 @@ def maxnum():
    c=int(input("enter number3  "))
    print("maximum number",max(a,b,c))
 maxnum()
-     
-
-
-# In[80]:
-
+2.
 
 def reverse(x):
   return x[::-1]
@@ -24,7 +16,7 @@ t = reverse("pyhton")
 print(t)
 
 
-# In[47]:
+3.
 
 
 def prime():
@@ -41,7 +33,7 @@ def prime():
 prime()
 
 
-# In[70]:
+5.
 
 
 def square():
